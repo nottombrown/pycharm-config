@@ -1,5 +1,7 @@
- options/proxy.settings.pwd
- options/recentProjectDirectories.xml
- options/statistics.application.usages.xml
- options/window.manager.xml
- options/usage.statistics.xml
+options/proxy.settings.pwd
+options/recentProjectDirectories.xml
+options/statistics.application.usages.xml
+options/window.manager.xml
+options/usage.statistics.xml
+options/dimensions.xml
+options/jdk.table.xml
