@@ -5,3 +5,5 @@ options/window.manager.xml
 options/usage.statistics.xml
 options/dimensions.xml
 options/jdk.table.xml
+
+*.statistics.xml

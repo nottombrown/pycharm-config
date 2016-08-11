@@ -2,6 +2,34 @@
   <component name="FileBasedIndex">
     <option name="registeredIndices">
       <list>
+        <option value="go.method.fingerprint" />
+        <option value="go.method" />
+        <option value="go.packages" />
+        <option value="go.type.name" />
+        <option value="go.function" />
+        <option value="go.all.private.name" />
+        <option value="go.all.name" />
+        <option value="bash.var" />
+        <option value="bash.vardef" />
+        <option value="bash.scriptCommandReference" />
+        <option value="bash.includers" />
+        <option value="bash.included" />
+        <option value="bash.script.name" />
+        <option value="bash.function.name" />
+        <option value="markdown.flexmark.example.option.index" />
+        <option value="puppet.text.search.index" />
+        <option value="puppet.resource" />
+        <option value="puppet.class" />
+        <option value="puppet.symbol" />
+        <option value="Stylus.mixins" />
+        <option value="Stylus.variables" />
+        <option value="Scss.mixin" />
+        <option value="Scss.function" />
+        <option value="Scss.placeholder.selector" />
+        <option value="Scss.variable" />
+        <option value="Less.variables" />
+        <option value="Less.mixins" />
+        <option value="sql.names" />
         <option value="sql.column.name" />
         <option value="sql.table.shortName" />
         <option value="angularjs.delimiter.index" />
@@ -47,20 +75,6 @@
         <option value="Py.class.shortName" />
         <option value="dom.elementClass" />
         <option value="dom.namespaceKey" />
-        <option value="markdown.flexmark.example.option.index" />
-        <option value="puppet.text.search.index" />
-        <option value="puppet.resource" />
-        <option value="puppet.class" />
-        <option value="puppet.symbol" />
-        <option value="Stylus.mixins" />
-        <option value="Stylus.variables" />
-        <option value="Scss.mixin" />
-        <option value="Scss.function" />
-        <option value="Scss.placeholder.selector" />
-        <option value="Scss.variable" />
-        <option value="Less.variables" />
-        <option value="Less.mixins" />
-        <option value="sql.names" />
       </list>
     </option>
   </component>

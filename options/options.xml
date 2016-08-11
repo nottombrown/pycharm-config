@@ -15,5 +15,7 @@
     <property name="selected.color.option.type" value="SOFT_WRAP_SIGN_COLOR" />
     <property name="ColorChooser.RecentColors" value="13-14-21-255,,,28-29-37-255,,,28-29-36-255" />
     <property name="settings.code.style.selected.tab.Python" value="Other" />
+    <property name="PLUGIN_FILTER" value="conf" />
+    <property name="go.tutorial.project.notification.shown" value="true" />
   </component>
 </application>
