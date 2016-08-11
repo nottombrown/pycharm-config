@@ -20,7 +20,7 @@
     <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.select.word" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="1" last-shown="0" last-used="1470958230690" shown-count="0" />
     <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishByDotEtc" count="0" last-shown="0" last-used="0" shown-count="0" />

@@ -33,6 +33,8 @@
   </component>
   <component name="UsageTrigger">
     <counts>
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Code_Folding" count="3" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
       <entry feature="ide.settings.Font" count="1" />
       <entry feature="ide.settings.General" count="4" />
@@ -40,6 +42,7 @@
       <entry feature="ide.settings.Keymap" count="1" />
       <entry feature="ide.settings.Project_Interpreter" count="1" />
       <entry feature="ide.settings.Python" count="2" />
+      <entry feature="ide.settings.Smart_Keys" count="1" />
       <entry feature="ideaapp.started" count="5" />
       <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
     </counts>
