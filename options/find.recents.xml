@@ -1,0 +1,42 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Twisty</find>
+      <find>start_onc</find>
+      <find>reactor</find>
+      <find>react</find>
+      <find>munged-vnc-core-envs</find>
+      <find>munged-vnc-flashgames</find>
+      <find>munged-dockerfiles</find>
+      <find>VNCNoopFlashgamesEnv</find>
+      <find>VNCNoop</find>
+      <find>NumpyScreen</find>
+      <find>Fake</find>
+      <find>ErrorBuffer</find>
+      <find>factory</find>
+      <find>front_screen</find>
+      <find>height</find>
+      <find>recv</find>
+      <find>Observer</find>
+      <find>ScreenBuffer</find>
+      <find>screen_buffer</find>
+      <find>mes</find>
+      <find>tcc mes</find>
+      <find>dlsym</find>
+      <find>docker</find>
+      <find>action_lag_stddev</find>
+      <find>display</find>
+      <find>DISPLAY=:0</find>
+      <find>dummy</find>
+      <find>render</find>
+      <find>order</find>
+      <find>run</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>vnc-core-envs:standalone</replace>
+      <replace>vnc-flashgames:standalone</replace>
+      <replace>standalone-dockerfiles</replace>
+      <replace>eval</replace>
+    </replaceStrings>
+  </component>
+</application>
