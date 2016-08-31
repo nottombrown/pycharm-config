@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="zsh" type="Bash" />
       <mapping ext="conf" type="Ini" />
+      <mapping ext="symlink" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

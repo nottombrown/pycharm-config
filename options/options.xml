@@ -6,9 +6,9 @@
     <property name="PyCharm.InitialConfiguration.V4" value="true" />
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
-    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeChangedCounter" value="6" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/idea-one-dark-theme/settings.jar&#10;/Users/tombrown/Workspace&#10;/Users/tombrown/Workspace/gym-vnc-envs" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspace/gym-demonstration&#10;/Users/tombrown/Workspace/gym&#10;/Users/tombrown/Workspace/gym-vnc&#10;/Users/tombrown/Workspace/idea-one-dark-theme/settings.jar&#10;/Users/tombrown/Workspace&#10;/Users/tombrown/Workspace/gym-vnc-envs" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="lastTip" value="1" />
@@ -18,9 +18,10 @@
     <property name="PLUGIN_FILTER" value="makefile&#10;make&#10;conf" />
     <property name="go.tutorial.project.notification.shown" value="true" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
-    <property name="KEYMAP" value="replace" />
+    <property name="KEYMAP" value="add selection for next&#10;replace" />
     <property name="go.last.update.timestamp" value="1471308687222" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="Copy.OpenInEditor" value="true" />
+    <property name="#xdebugger.evaluate.splitter" value="0.49213484" />
   </component>
 </application>

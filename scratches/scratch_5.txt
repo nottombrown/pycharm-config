@@ -1,0 +1,22 @@
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/catherio-pong-1.demo.gz -o /tmp/catherio-pong-1
+
+
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/catherio-pong-1.demo.gz -o /tmp/catherio-pong-1
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/catherio-pong-2.demo.gz -o /tmp/catherio-pong-2
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-1.demo.gz -o /tmp/gdb-pong-1
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-2.demo.gz -o /tmp/gdb-pong-2
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-3.demo.gz -o /tmp/gdb-pong-3
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-4.demo.gz -o /tmp/gdb-pong-4
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-5.demo.gz -o /tmp/gdb-pong-5
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-6.demo.gz -o /tmp/gdb-pong-6
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-7.demo.gz -o /tmp/gdb-pong-7
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/gdb-pong-8.demo.gz -o /tmp/gdb-pong-8
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/tom-pong-1.demo.gz -o /tmp/tom-pong-1
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/tom-pong-2.demo.gz -o /tmp/tom-pong-2
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/tom-pong-3.demo.gz -o /tmp/tom-pong-3
+bin/atari_cleaner.py -i ~/Workspace/gym-demonstration-captures/Pong-v0/tom-pong-4.demo.gz -o /tmp/tom-pong-4
+
+
+bin/atari_cleaner.py -i ../gym-demonstration-captures/SpaceInvaders-v0/gdb-spaceinvaders-1.demo.gz -o /tmp/gdb-spaceinvaders-1 -e SpaceInvaders-v0
+bin/atari_cleaner.py -i ../gym-demonstration-captures/SpaceInvaders-v0/gdb-spaceinvaders-2.demo.gz -o /tmp/gdb-spaceinvaders-2 -e SpaceInvaders-v0
+bin/atari_cleaner.py -i ../gym-demonstration-captures/SpaceInvaders-v0/gdb-spaceinvaders-3.demo.gz -o /tmp/gdb-spaceinvaders-3 -e SpaceInvaders-v0

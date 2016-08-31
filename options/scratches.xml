@@ -1,10 +1,26 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" value="Angular2HTML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" value="Python" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" value="Python" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" value="Python" />
   </component>
 </application>

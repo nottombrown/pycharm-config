@@ -1,0 +1,8 @@
+
+- [ ] Get something working locally
+- [ ] Test with a small recording
+- [ ] Test with a big giant recording
+- [ ] Test this on Windows
+- [ ] Ship it to iMerit
+- [ ] Put it in the quip doc
+- [ ] Email them to tell them stuff is ready
