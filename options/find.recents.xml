@@ -1,10 +1,6 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>restart</find>
-      <find>display</find>
-      <find>vector</find>
-      <find>f</find>
       <find>_n</find>
       <find>fbs_reader</find>
       <find>action_path</find>
@@ -31,6 +27,10 @@
       <find>init</find>
       <find>emon</find>
       <find>docker</find>
+      <find>gym_vnc.error</find>
+      <find>Error</find>
+      <find>error</find>
+      <find>gym_vnc</find>
     </findStrings>
     <replaceStrings>
       <replace>vnc-core-envs:standalone</replace>

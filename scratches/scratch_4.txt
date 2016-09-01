@@ -1,8 +1,0 @@
--rw-r--r--  1 tombrown staff 21773238 Aug 22 17:26 gdb-pong-1.demo.gz
--rw-r--r--  1 tombrown staff 19410908 Aug 22 17:26 gdb-pong-2.demo.gz
--rw-r--r--  1 tombrown staff  5762149 Aug 22 17:26 gdb-pong-3.demo.gz
--rw-r--r--  1 tombrown staff  9823547 Aug 22 17:26 gdb-pong-4.demo.gz
--rw-r--r--  1 tombrown staff  6862635 Aug 22 17:26 gdb-pong-5.demo.gz
--rw-r--r--  1 tombrown staff  8011626 Aug 22 17:34 gdb-pong-6.demo.gz
--rw-r--r--  1 tombrown staff  8608563 Aug 22 17:34 gdb-pong-7.demo.gz
--rw-r--r--  1 tombrown staff 25151398 Aug 22 17:35 gdb-pong-8.demo.gz

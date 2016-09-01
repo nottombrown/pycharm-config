@@ -1,9 +1,0 @@
-Tim Bavaro
-Naomi Seyfer
-Adam Oliner
-Kris Rasmussen
-Emily Stark
-David Glasser
-David Braginsky
-Justin Santa
-Jenny Finkel
